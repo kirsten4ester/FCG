@@ -27,4 +27,5 @@ Forester Construction Group is a site for a small business located in Naples, Fl
 ## Technologies Used
 - HTML5
 - CSS3
+- JavaScript
 - Bootstrap 
