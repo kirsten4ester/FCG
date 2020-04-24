@@ -1,3 +1,32 @@
 body {
     font-family: 'Tenor Sans', sans-serif;
 }
+
+main {
+    background-color: #F6F6F6;
+    /* border-top: solid black 1px;
+    border-bottom: solid black 1px; */
+}
+.footer {
+    margin-bottom: 10px;
+}
+.footer p {
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 11px;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+    font-weight: 900;
+}
